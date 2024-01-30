@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "7xiazai.com",
+        "aliprice.com",
+        "apphot.cc",
+        "btbtt12.com",
+        "ip.fm",
+        "ip.run",
+        "ip138.com",
+        "ooklaserver.net",
+        "ping0.cc",
+        "shoudian.org",
+        "speedtest.net",
+        "zmk.pw"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".7xiazai.com",
+        ".aliprice.com",
+        ".apphot.cc",
+        ".btbtt12.com",
+        ".ip.fm",
+        ".ip.run",
+        ".ip138.com",
+        ".ooklaserver.net",
+        ".ping0.cc",
+        ".shoudian.org",
+        ".speedtest.net",
+        ".zmk.pw"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.12.12.12/32",
+        "120.53.53.53/32",
+        "223.5.5.5/32",
+        "223.6.6.6/32"
+      ]
+    }
+  ],
+  "version": 1
+}
