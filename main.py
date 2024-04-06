@@ -85,9 +85,7 @@ def parse_list_file(link, output_directory):
 
     # 映射字典
     map_dict = {'DOMAIN-SUFFIX': 'domain_suffix', 'HOST-SUFFIX': 'domain_suffix', 'DOMAIN': 'domain', 'HOST': 'domain', 'host': 'domain',
-                'DOMAIN-KEYWORD':'domain_keyword', 'HOST-KEYWORD': 'domain_keyword', 'host-keyword': 'domain_keyword', 'IP-CIDR': 'ip_cidr',
-                'ip-cidr': 'ip_cidr', 'IP-CIDR6': 'ip_cidr', 
-                'IP6-CIDR': 'ip_cidr','SRC-IP-CIDR': 'source_ip_cidr', 'GEOIP': 'geoip', 'DST-PORT': 'port',
+                'DOMAIN-KEYWORD':'domain_keyword', 'HOST-KEYWORD': 'domain_keyword', 'host-keyword': 'domain_keyword', 'GEOIP': 'geoip', 'DST-PORT': 'port',
                 'SRC-PORT': 'source_port', "URL-REGEX": "domain_regex"}
 
     # 删除不在字典中的pattern
