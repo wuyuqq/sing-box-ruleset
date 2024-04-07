@@ -84,8 +84,11 @@ def parse_list_file(link, output_directory):
     df = df[~df['pattern'].str.contains('#')].reset_index(drop=True)
 
     # 映射字典
-    map_dict = {'DOMAIN-SUFFIX': 'domain_suffix', 'HOST-SUFFIX': 'domain_suffix',
-                'DOMAIN-KEYWORD':'domain_keyword', 'HOST-KEYWORD': 'domain_keyword', 'host-keyword': 'domain_keyword'}
+    map_dict = {'DOMAIN-SUFFIX': 'domain_suffix', 'HOST-SUFFIX': 'domain_suffix', 'DOMAIN': 'domain', 'HOST': 'domain', 'host': 'domain',
+                'DOMAIN-KEYWORD':'domain_keyword', 'HOST-KEYWORD': 'domain_keyword', 'host-keyword': 'domain_keyword', 'IP-CIDR': 'ip_cidr',
+                'ip-cidr': 'ip_cidr', 'IP-CIDR6': 'ip_cidr', 
+                'IP6-CIDR': 'ip_cidr','SRC-IP-CIDR': 'source_ip_cidr', 'GEOIP': 'geoip', 'DST-PORT': 'port',
+                'SRC-PORT': 'source_port', "URL-REGEX": "domain_regex"}
 
     # 删除不在字典中的pattern
     df = df[df['pattern'].isin(map_dict.keys())].reset_index(drop=True)
@@ -112,7 +115,7 @@ def parse_list_file(link, output_directory):
     # 删除 'domain_entries' 中的重复值
     domain_entries = list(set(domain_entries))
     if domain_entries:
-        result_rules["rules"].insert(0, {'domain': domain_entries})
+        result_rules["rules"].insert(0, {'domain_suffix': domain_entries})
 
     # 使用 output_directory 拼接完整路径
     file_name = os.path.join(output_directory, f"{os.path.basename(link).split('.')[0]}.json")
