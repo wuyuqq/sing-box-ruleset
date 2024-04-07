@@ -4,7 +4,6 @@
       "domain": [
         "acl4.ssr",
         "hiwifi.com",
-        "instant.arubanetworks.com",
         "ip6-localhost",
         "ip6-loopback",
         "lan",
@@ -16,14 +15,11 @@
         "p.to",
         "peiluyou.com",
         "phicomm.me",
-        "router.asus.com",
         "router.ctc",
         "routerlogin.com",
-        "setmeup.arubanetworks.com",
         "tendawifi.com",
         "tplogin.cn",
         "wifi.cmcc",
-        "www.asusrouter.com",
         "zte.home"
       ]
     },
