@@ -23,14 +23,6 @@
         "steamcontent.com",
         "steamusercontent.com"
       ]
-    },
-    {
-      "domain_suffix": [
-        "cm.steampowered.com",
-        "steamchina.com",
-        "steamcontent.com",
-        "steamusercontent.com"
-      ]
     }
   ],
   "version": 1

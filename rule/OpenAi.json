@@ -22,24 +22,6 @@
         "sentry.io",
         "stripe.com"
       ]
-    },
-    {
-      "domain_suffix": [
-        "auth0.com",
-        "challenges.cloudflare.com",
-        "client-api.arkoselabs.com",
-        "events.statsigapi.net",
-        "featuregates.org",
-        "identrust.com",
-        "intercom.io",
-        "intercomcdn.com",
-        "oaistatic.com",
-        "oaiusercontent.com",
-        "openai.com",
-        "openaiapi-site.azureedge.net",
-        "sentry.io",
-        "stripe.com"
-      ]
     }
   ],
   "version": 1

@@ -28,28 +28,6 @@
       ]
     },
     {
-      "domain_suffix": [
-        "aaplimg.com",
-        "akadns.net",
-        "apple-cloudkit.com",
-        "apple-dns.net",
-        "apple-mapkit.com",
-        "apple.co",
-        "apple.com",
-        "apple.com.cn",
-        "apple.news",
-        "appstore.com",
-        "cdn-apple.com",
-        "crashlytics.com",
-        "icloud-content.com",
-        "icloud.com",
-        "icloud.com.cn",
-        "itunes.com",
-        "me.com",
-        "mzstatic.com"
-      ]
-    },
-    {
       "ip_cidr": [
         "139.178.128.0/18",
         "144.178.0.0/19",

@@ -25,21 +25,6 @@
         "yt.be",
         "ytimg.com"
       ]
-    },
-    {
-      "domain_suffix": [
-        "googlevideo.com",
-        "gvt2.com",
-        "withyoutube.com",
-        "youtu.be",
-        "youtube-nocookie.com",
-        "youtube.com",
-        "youtubeeducation.com",
-        "youtubegaming.com",
-        "youtubekids.com",
-        "yt.be",
-        "ytimg.com"
-      ]
     }
   ],
   "version": 1

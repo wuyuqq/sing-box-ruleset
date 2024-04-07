@@ -11,16 +11,6 @@
       ]
     },
     {
-      "domain_suffix": [
-        "t.me",
-        "tdesktop.com",
-        "telegra.ph",
-        "telegram.me",
-        "telegram.org",
-        "telesco.pe"
-      ]
-    },
-    {
       "ip_cidr": [
         "109.239.140.0/24",
         "149.154.160.0/20",

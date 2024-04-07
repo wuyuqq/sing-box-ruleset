@@ -5,12 +5,6 @@
         "bing.com",
         "copilot.microsoft.com"
       ]
-    },
-    {
-      "domain_suffix": [
-        "bing.com",
-        "copilot.microsoft.com"
-      ]
     }
   ],
   "version": 1
