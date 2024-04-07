@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "7xiazai.com",
         "aliprice.com",
         "apphot.cc",

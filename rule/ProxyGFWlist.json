@@ -1,36 +1,7 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-        "1drv",
-        "1e100",
-        "abema",
-        "appledaily",
-        "avtb",
-        "beetalk",
-        "blogspot",
-        "dropbox",
-        "facebook",
-        "fbcdn",
-        "github",
-        "gmail",
-        "google",
-        "instagram",
-        "onedrive",
-        "porn",
-        "sci-hub",
-        "skydrive",
-        "spotify",
-        "telegram",
-        "ttvnw",
-        "twitter",
-        "uk-live",
-        "whatsapp",
-        "youtube"
-      ]
-    },
-    {
-      "domain_suffix": [
+      "domain": [
         "000webhost.com",
         "030buy.com",
         "0rz.tw",
@@ -996,7 +967,6 @@
         "clinica-tibet.ru",
         "clipfish.de",
         "cloakpoint.com",
-        "cloud.oracle.com",
         "cloudcone.com",
         "cloudflare-ipfs.com",
         "cloudfront.net",
@@ -4735,18 +4705,12 @@
         "stboy.net",
         "stc.com.sa",
         "steam-chat.com",
-        "steambroadcast.akamaized.net",
-        "steamcommunity-a.akamaihd.net",
         "steamcommunity.com",
         "steamgames.com",
-        "steampipe.akamaized.net",
         "steampowered.com",
         "steamserver.net",
         "steamstat.us",
         "steamstatic.com",
-        "steamstore-a.akamaihd.net",
-        "steamusercontent-a.akamaihd.net",
-        "steamuserimages-a.akamaihd.net",
         "steel-storm.com",
         "steemit.com",
         "steganos.com",
@@ -6096,6 +6060,46 @@
         "zzcartoon.com",
         "zzcloud.me",
         "zzux.com"
+      ]
+    },
+    {
+      "domain": [
+        "cloud.oracle.com",
+        "steambroadcast.akamaized.net",
+        "steamcommunity-a.akamaihd.net",
+        "steampipe.akamaized.net",
+        "steamstore-a.akamaihd.net",
+        "steamusercontent-a.akamaihd.net",
+        "steamuserimages-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "1drv",
+        "1e100",
+        "abema",
+        "appledaily",
+        "avtb",
+        "beetalk",
+        "blogspot",
+        "dropbox",
+        "facebook",
+        "fbcdn",
+        "github",
+        "gmail",
+        "google",
+        "instagram",
+        "onedrive",
+        "porn",
+        "sci-hub",
+        "skydrive",
+        "spotify",
+        "telegram",
+        "ttvnw",
+        "twitter",
+        "uk-live",
+        "whatsapp",
+        "youtube"
       ]
     },
     {

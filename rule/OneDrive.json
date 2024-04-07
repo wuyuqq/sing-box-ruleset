@@ -1,14 +1,7 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-        "1drv",
-        "onedrive",
-        "skydrive"
-      ]
-    },
-    {
-      "domain_suffix": [
+      "domain": [
         "livefilestore.com",
         "oneclient.sfx.ms",
         "onedrive.com",
@@ -20,6 +13,13 @@
         "spoprod-a.akamaihd.net",
         "storage.live.com",
         "storage.msn.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "1drv",
+        "onedrive",
+        "skydrive"
       ]
     },
     {

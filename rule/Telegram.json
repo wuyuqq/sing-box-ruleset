@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "t.me",
         "tdesktop.com",
         "telegra.ph",

@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "aaplimg.com",
         "akadns.net",
         "apple-cloudkit.com",
@@ -10,7 +10,6 @@
         "apple.co",
         "apple.com",
         "apple.com.cn",
-        "apple.comscoreresearch.com",
         "apple.news",
         "appstore.com",
         "cdn-apple.com",
@@ -21,6 +20,11 @@
         "itunes.com",
         "me.com",
         "mzstatic.com"
+      ]
+    },
+    {
+      "domain": [
+        "apple.comscoreresearch.com"
       ]
     },
     {

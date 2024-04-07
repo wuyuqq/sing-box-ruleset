@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "bing.com",
         "copilot.microsoft.com"
       ]
