@@ -103,7 +103,7 @@ def parse_list_file(link, output_directory):
 
     for pattern, addresses in df.groupby('pattern')['address'].apply(list).to_dict().items():
         if pattern == 'domain_suffix':
-            rule_entry = {pattern: ['.' + address.strip() for address in addresses]}
+            rule_entry = {pattern: [address.strip() for address in addresses]}
             result_rules["rules"].append(rule_entry)
             domain_entries.extend([address.strip() for address in addresses])
         elif pattern == 'domain':
@@ -112,7 +112,6 @@ def parse_list_file(link, output_directory):
             rule_entry = {pattern: [address.strip() for address in addresses]}
             result_rules["rules"].append(rule_entry)
     # 删除 'domain_entries' 中的重复值
-    domain_entries = list(set(domain_entries))
     if domain_entries:
         result_rules["rules"].insert(0, {'domain': domain_entries})
 
