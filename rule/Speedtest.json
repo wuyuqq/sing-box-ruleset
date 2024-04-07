@@ -2,13 +2,6 @@
   "rules": [
     {
       "domain": [
-        "fast.com",
-        "ooklaserver.net",
-        "speed.cloudflare.com"
-      ]
-    },
-    {
-      "domain": [
         "speed.dler.io"
       ]
     },

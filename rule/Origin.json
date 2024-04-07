@@ -2,12 +2,6 @@
   "rules": [
     {
       "domain": [
-        "ea.com",
-        "origin.com"
-      ]
-    },
-    {
-      "domain": [
         "cloudsync-prod.s3.amazonaws.com",
         "eaasserts-a.akamaihd.net",
         "origin-a.akamaihd.net",

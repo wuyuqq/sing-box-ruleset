@@ -2,22 +2,6 @@
   "rules": [
     {
       "domain": [
-        "fanatical.com",
-        "humblebundle.com",
-        "playartifact.com",
-        "steam-chat.com",
-        "steamcommunity.com",
-        "steamgames.com",
-        "steampowered.com",
-        "steamserver.net",
-        "steamstat.us",
-        "steamstatic.com",
-        "underlords.com",
-        "valvesoftware.com"
-      ]
-    },
-    {
-      "domain": [
         "steambroadcast.akamaized.net",
         "steamcommunity-a.akamaihd.net",
         "steampipe.akamaized.net",
