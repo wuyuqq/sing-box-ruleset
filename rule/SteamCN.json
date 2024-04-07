@@ -22,10 +22,10 @@
     },
     {
       "domain_suffix": [
-        ".cm.steampowered.com",
-        ".steamchina.com",
-        ".steamcontent.com",
-        ".steamusercontent.com"
+        "cm.steampowered.com",
+        "steamchina.com",
+        "steamcontent.com",
+        "steamusercontent.com"
       ]
     }
   ],
