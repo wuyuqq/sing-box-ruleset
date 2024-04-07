@@ -1,7 +1,12 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_keyword": [
+        "openai"
+      ]
+    },
+    {
+      "domain_suffix": [
         "auth0.com",
         "challenges.cloudflare.com",
         "client-api.arkoselabs.com",
@@ -16,11 +21,6 @@
         "openaiapi-site.azureedge.net",
         "sentry.io",
         "stripe.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "openai"
       ]
     },
     {

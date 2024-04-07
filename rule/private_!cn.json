@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "javbus.com",
         "javcdn.cc",
         "javdb.com",

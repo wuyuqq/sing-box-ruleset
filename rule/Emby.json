@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "123456.al",
         "bangumi.ca",
         "imetyou.top"

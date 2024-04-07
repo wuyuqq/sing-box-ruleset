@@ -1,7 +1,13 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_keyword": [
+        "1drv",
+        "microsoft"
+      ]
+    },
+    {
+      "domain_suffix": [
         "aadrm.com",
         "acompli.com",
         "acompli.net",
@@ -79,12 +85,6 @@
         "wunderlist.com",
         "yammer.com",
         "yammerusercontent.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "1drv",
-        "microsoft"
       ]
     },
     {

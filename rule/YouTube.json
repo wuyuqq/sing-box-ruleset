@@ -2,6 +2,17 @@
   "rules": [
     {
       "domain": [
+        "youtubei.googleapis.com",
+        "yt3.ggpht.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "youtube"
+      ]
+    },
+    {
+      "domain_suffix": [
         "googlevideo.com",
         "gvt2.com",
         "withyoutube.com",
@@ -13,11 +24,6 @@
         "youtubekids.com",
         "yt.be",
         "ytimg.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "youtube"
       ]
     },
     {

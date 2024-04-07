@@ -1,7 +1,12 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_keyword": [
+        "tiktokcdn"
+      ]
+    },
+    {
+      "domain_suffix": [
         "byteoversea.com",
         "ibytedtos.com",
         "ipstatp.com",
@@ -11,11 +16,6 @@
         "tiktok.com",
         "tiktokcdn.com",
         "tiktokv.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "tiktokcdn"
       ]
     },
     {
