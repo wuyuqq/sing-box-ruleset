@@ -8,8 +8,8 @@
     },
     {
       "domain_suffix": [
-        ".bing.com",
-        ".copilot.microsoft.com"
+        "bing.com",
+        "copilot.microsoft.com"
       ]
     }
   ],
