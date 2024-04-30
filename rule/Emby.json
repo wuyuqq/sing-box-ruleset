@@ -4,6 +4,7 @@
       "domain": [
         "123456.al",
         "bangumi.ca",
+        "emby.wtf",
         "imetyou.top"
       ]
     },
@@ -11,6 +12,7 @@
       "domain_suffix": [
         ".123456.al",
         ".bangumi.ca",
+        ".emby.wtf",
         ".imetyou.top"
       ]
     }
