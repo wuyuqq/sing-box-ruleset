@@ -4,7 +4,6 @@
       "domain": [
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
         "5itv.tv",
-        "abema-tv.com",
         "abema.io",
         "abema.tv",
         "aboutamazon.com",
@@ -19,7 +18,6 @@
         "ameba.jp",
         "aod-dash-uk-live.akamaized.net",
         "aod-hls-uk-live.akamaized.net",
-        "api-abematv.bucketeer.jp",
         "api.viu.now.com",
         "atv-ps.amazon.com",
         "auth0.com",
@@ -110,7 +108,6 @@
         "hamifans.emome.net",
         "happyon.jp",
         "hayabusa.io",
-        "hayabusa.media",
         "hbo.com",
         "hboasia.com",
         "hboasia1-i.akamaihd.net",
@@ -309,7 +306,6 @@
     {
       "domain_suffix": [
         ".5itv.tv",
-        ".abema-tv.com",
         ".abema.io",
         ".abema.tv",
         ".aboutamazon.com",
@@ -389,7 +385,6 @@
         ".haiwaikan.com",
         ".happyon.jp",
         ".hayabusa.io",
-        ".hayabusa.media",
         ".hbo.com",
         ".hboasia.com",
         ".hbogo.com",
