@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "gemini.google.com"
-      ]
-    },
-    {
       "domain_keyword": [
         "openai"
       ]
